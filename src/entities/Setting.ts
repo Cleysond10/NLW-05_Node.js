@@ -28,4 +28,4 @@ class Setting {
 
 }
 
-export { Setting }
+export { Setting };
